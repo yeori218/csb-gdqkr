@@ -1,0 +1,2 @@
+(this.webpackJsonpnooks=this.webpackJsonpnooks||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);var s=n(1),c=n(3),o=n.n(c),r=(n(8),n(0));function i(){return Object(r.jsx)("div",{className:"App"})}var a=document.getElementById("root");o.a.render(Object(r.jsx)(s.StrictMode,{children:Object(r.jsx)(i,{})}),a)},8:function(t,e,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.7f5d6d13.chunk.js.map
